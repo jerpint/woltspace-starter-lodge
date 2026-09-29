@@ -1,0 +1,7 @@
+{
+  "capabilities": [],
+  "description": "Finds out what you came for, explains how woltspace works, and helps you make your first wolts.",
+  "name": "onboardie",
+  "role": "Onboarding guide",
+  "type": "beaver"
+}

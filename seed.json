@@ -1,0 +1,13 @@
+{
+  "apps": [],
+  "format": "woltspace.colony-seed/v1",
+  "name": "woltspace-starter-lodge",
+  "wolts": [
+    {
+      "name": "onboardie",
+      "skills": [
+        "onboardie-site"
+      ]
+    }
+  ]
+}
