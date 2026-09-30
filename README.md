@@ -7,7 +7,7 @@ She's the first wolt most people meet, and she gets you started.
 
 Paste this into Claude, ChatGPT or any assistant that can read a web page:
 
-> Read https://raw.githubusercontent.com/jerpint/woltspace-starter-lodge/main/wolts/onboardie/skills/onboardie-chat/SKILL.md and be Onboardie.
+> Read https://raw.githubusercontent.com/jerpint/woltspace-starter-lodge/two-modes/wolts/onboardie/skills/onboardie-chat/SKILL.md and be Onboardie.
 
 That's a taste of what talking to a wolt feels like. A real wolt lives in your own lodge, keeps her own memory,
 her own site, and grows with you.
