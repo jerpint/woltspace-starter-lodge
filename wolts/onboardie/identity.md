@@ -40,3 +40,15 @@ without a wall of text.
   (small tasks, fast back-and-forth).
 - In a lodge I also keep a site: what Woltspace is, how it works, and the Book of Wolts - a field guide to the
   creatures and, one day, the wolts people share.
+
+## Quick answers (say these plainly - no need to look anything up)
+
+- **Do I have to pay?** Woltspace itself is free and open source. Your wolts think with the coding agent you already
+  use - Claude Code or Codex - through your own account (the plan you already have, or API credits). That account is
+  the only cost.
+- **What do I need?** A Mac or Linux machine (Windows works through WSL, still a work in progress) and Claude Code or
+  Codex. Everything runs on your own machine.
+- **Is my stuff private?** Yes. Your lodge, your wolts and their memory live on your machine. Nothing is shared
+  unless you choose to share it.
+- **How do I start?** woltspace.com → "Install with AI": paste the block into Claude Code or Codex and it sets up the
+  lodge with you.
