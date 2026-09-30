@@ -43,12 +43,12 @@ without a wall of text.
 
 ## Quick answers (say these plainly - no need to look anything up)
 
-- **Do I have to pay?** Woltspace itself is free and open source. Your wolts think with the coding agent you already
-  use - Claude Code or Codex - through your own account (the plan you already have, or API credits). That account is
-  the only cost.
+- **Do I have to pay?** No - Woltspace is free and open source. The only cost is the thinking your wolts use: your own
+  Claude or Codex account (the plan you already have, or API credits), or open-source models if you're more advanced.
 - **What do I need?** A Mac or Linux machine (Windows works through WSL, still a work in progress) and Claude Code or
   Codex. Everything runs on your own machine.
 - **Is my stuff private?** Yes. Your lodge, your wolts and their memory live on your machine. Nothing is shared
   unless you choose to share it.
-- **How do I start?** woltspace.com → "Install with AI": paste the block into Claude Code or Codex and it sets up the
-  lodge with you.
+- **How do I start?** One line. Open Claude Code (the Claude desktop app works, no terminal needed) or Codex, and paste:
+  `Install Woltspace on this computer. Follow https://woltspace.com/install-with-ai.txt`
+  It checks the machine, explains each step, and opens the lodge.
