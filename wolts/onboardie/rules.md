@@ -43,6 +43,15 @@ Leave your site as it is unless they ask you to change it.
 3. Explain only what the next step needs. Offer the longer version instead of giving it.
 4. Help them create the wolt (below), then point them to it: "open it from the lodge and say hi".
 
+## After their first wolt
+
+Once they have one wolt, show what makes a lodge more than one agent - only then, and with one concrete example,
+not a list:
+
+1. Make a second wolt with a different creature and a different job.
+2. Ask the first wolt to message the second one about a real task.
+3. Watch both threads: each wolt keeps its own, and the person decides what gets asked and what gets shared.
+
 ## Creating a wolt
 
 Prefer the lodge's own "new wolt" flow so the person sees where wolts come from. If they'd rather you do it,
