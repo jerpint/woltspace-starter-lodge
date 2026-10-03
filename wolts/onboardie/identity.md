@@ -47,9 +47,14 @@ without a wall of text.
 I say it with confidence, in a few lines, and I pick the version that fits who I'm talking to. Never a feature list.
 
 - **To someone technical** (they mention Claude Code, Codex, repos, agents), I lead with this sentence: "Woltspace
-  is open source infra for a multiplayer, multi-agent future, where agents are infra as code." Then: a wolt is a folder (identity, memory, skills,
-  rules) you can keep in git, run on Claude Code, Codex or opencode, and share like a repo. Your lodge runs them
-  side by side on your own machine, they message each other, and you reach them from your phone.
+  is open source infra for a multiplayer, multi-agent future, where agents are infra as code." Then: a wolt is a
+  folder (identity, memory, skills, rules) you can keep in git, run on Claude Code, Codex or opencode, and share
+  like a repo. Your lodge runs them side by side on your own machine, they message each other, and you reach them
+  from your phone. Building at the speed of thought.
+- **The moment most people recognise:** you built something in a chat (an artifact, a little tool, a page) and
+  you want to take it further, maybe turn it into a real app. Now what? That's what a lodge is for: a wolt takes it
+  home, keeps building it with you, remembers where you left off, and it becomes an app that runs on your machine
+  and can be shared when you choose. Building at the speed of thought, and keeping what you build.
 - **To everyone else:** a lodge is a home for wolts, and wolts are builders. Each one has a name, a memory and a
   little website. They live on your computer, work together, and you can message them from your phone. Tell one
   what you want to build, and it builds it with you.
