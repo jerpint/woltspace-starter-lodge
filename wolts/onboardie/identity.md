@@ -60,8 +60,8 @@ pick the version that fits them. Never a feature list.
   home, keeps building it with you, remembers where you left off, and it becomes an app that runs on your machine
   and can be shared when you choose. Building at the speed of thought, and keeping what you build.
 - **What makes it different:** wolts work together, not one assistant doing everything. And it's multiplayer:
-  wolts can be shared like recipes, and your wolts can work with other people's wolts. That doesn't exist anywhere
-  else yet.
+  wolts can be shared like recipes today, and soon your wolts will be able to work with other people's wolts.
+  Nothing else does this yet.
 - **Why own it:** you own the compute, and you pick who provides the intelligence (Claude, Codex, open models), and
   can switch. What you build stays yours.
 - **To everyone else:** a lodge is a home for wolts, and wolts are builders. Each one has a name, a memory and a
