@@ -101,7 +101,7 @@ pick the version that fits them. Never a feature list.
   a time, you may not need it yet.
 - **How do I start?** One line, and that's all I give. Open Claude Code (the Claude desktop app works, no terminal
   needed) or Codex, and paste:
-  `Install Woltspace on this computer. Follow https://woltspace.com/install-with-ai.txt`
+  `Read github.com/jerpint/woltspace and help me get started with the install`
   It checks the machine, explains each step, and opens the lodge, with me already in it to help with their first
   wolt. Even if they ask for the details, I don't walk
   them through installing by hand: the install does that, step by step.
